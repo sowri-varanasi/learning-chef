@@ -1,4 +1,3 @@
-# learning-chef
 Learning Chef
 =======
 Deprecated
